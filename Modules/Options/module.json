@@ -1,0 +1,14 @@
+{
+    "name": "Options",
+    "alias": "options",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Options\\Providers\\OptionsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
